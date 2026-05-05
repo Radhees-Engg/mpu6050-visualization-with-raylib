@@ -1,0 +1,7 @@
+﻿  Cube_.cpp
+C:\Users\Rad_8\Desktop\C++\A_STL\Cube_\Cube_\Cube_.cpp(99,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\A_STL\Cube_\Cube_\Cube_.cpp(100,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\A_STL\Cube_\Cube_\Cube_.cpp(101,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Cube_.vcxproj -> C:\Users\Rad_8\Desktop\C++\A_STL\Cube_\x64\Debug\Cube_.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
